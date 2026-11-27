@@ -1,2 +1,9 @@
-# github-practice
-My first GitHub practice project
+# GitHub Practice
+
+This is my first GitHub repository.
+
+## About
+I am learning Git and GitHub.
+
+## Author
+Muhammad Bilal
